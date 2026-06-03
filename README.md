@@ -23,6 +23,7 @@ Quite a bit of **Java**, **Python**, and **JS**... the rest I can easily adapt t
 | 📈 **Investments Belfort** | Technical investment analytics platform with backtesting, strategy evaluation, and detailed risk metrics. | `React`, `TypeScript`, `Python`, `Tailwind` |
 | 🎮 **Necropoint** | Video game development featuring isometric navigation mechanics and real-time debug tools. | `Game Dev` |
 | 🎵 **MusicSync / VibeMusic** | Platform for music synchronization and playback. | `Music`, `Streaming` |
+| 🚗 **Blablacar** | Ride-sharing and travel management application clone/tool. | `Web`, `Full-Stack` |
 
 ---
 <div align="center">
