@@ -23,7 +23,7 @@ Quite a bit of **Java**, **Python**, and **JS**... the rest I can easily adapt t
 | 📈 **[Investments Belfort](https://github.com/alejandroGM0/investments_belfort)** | Technical investment analytics platform with backtesting, strategy evaluation, and detailed risk metrics. | `React`, `TypeScript`, `Python`, `Tailwind` |
 | 🎮 **[Necropoint](https://github.com/alejandroGM0/project-top-down)** | Video game development featuring isometric navigation mechanics and real-time debug tools. | `Game Dev` |
 | 🎵 **[MusicSync / VibeMusic](https://github.com/alejandroGM0/groomusic)** | Platform for music synchronization and playback. | `Music`, `Streaming` |
-| 🚗 **[Blablacar](https://github.com/alejandroGM0/)** | Ride-sharing and travel management application clone/tool. | `Web`, `Full-Stack` |
+| 🚗 **[Charlacar](https://github.com/alejandroGM0/charlacar)** | Ride-sharing and travel management application clone/tool. | `Web`, `Full-Stack` |
 
 ---
 <div align="center">
