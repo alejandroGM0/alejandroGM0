@@ -22,7 +22,7 @@ Fluent in **Java**, **Python**, and **JS**. I used to be pretty good at **C++** 
 |---------|-------------|--------------|
 | 📈 **[Investments Belfort](https://github.com/alejandroGM0/investments_belfort)** | Technical investment analytics platform with backtesting, strategy evaluation, and detailed risk metrics. | `React`, `TypeScript`, `Python`, `Tailwind` |
 | 🎮 **[Necropoint](https://github.com/alejandroGM0/project-top-down)** | Video game development featuring isometric navigation mechanics and real-time debug tools. | `Java`, `Low-Level Rendering` |
-| 🎵 **[MusicSync / VibeMusic](https://alejandrogm.tech/project/musicsync)** | Platform for music synchronization and playback. | `Golang`, `Django`, `Python` |
+| 🎵 **[MusicSync / VibeMusic](https://alejandrogm.tech/project/musicsync)** | Platform for music synchronization and playback. | `Django`, `Python` |
 | 🚗 **[Charlacar](https://github.com/alejandroGM0/charlacar)** | Ride-sharing and travel management application clone/tool. | `Python`, `Stripe`, `HTML`, `CSS`, `JavaScript` |
 
 <br/>
