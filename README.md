@@ -8,7 +8,7 @@
 
 - 🎓 **Final-year Computer Engineering student**.
 - 🤝 Active contributor to the **Linux Foundation** and **Open Source** projects.
-- 🌐 Check out my **[Personal Website](https://your-website.com)** where I upload my projects and try to explain things... assuming I actually remember to update it. 😅
+- 🌐 Check out my **[Personal Website](https://alejandrogm.tech)** where I upload my projects and try to explain things... assuming I actually remember to update it. 😅
 
 ## 🛠️ Tech Stack
 
@@ -22,7 +22,7 @@ Fluent in **Java**, **Python**, and **JS**. I used to be pretty good at **C++** 
 |---------|-------------|--------------|
 | 📈 **[Investments Belfort](https://github.com/alejandroGM0/investments_belfort)** | Technical investment analytics platform with backtesting, strategy evaluation, and detailed risk metrics. | `React`, `TypeScript`, `Python`, `Tailwind` |
 | 🎮 **[Necropoint](https://github.com/alejandroGM0/project-top-down)** | Video game development featuring isometric navigation mechanics and real-time debug tools. | `Game Dev` |
-| 🎵 **[MusicSync / VibeMusic](https://github.com/alejandroGM0/groomusic)** | Platform for music synchronization and playback. | `Music`, `Streaming` |
+| 🎵 **[MusicSync / VibeMusic](https://alejandrogm.tech/project/musicsync)** | Platform for music synchronization and playback. | `Music`, `Streaming` |
 | 🚗 **[Charlacar](https://github.com/alejandroGM0/charlacar)** | Ride-sharing and travel management application clone/tool. | `Web`, `Full-Stack` |
 
 <br/>
