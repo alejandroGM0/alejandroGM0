@@ -7,12 +7,12 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Final-year Computer Engineering student**.
-- 🤝 Active contributor to the **Linux Foundation**, **Open Source** projects, and **Blockchain** ecosystems.
-- 🌱 I’m constantly learning about software architecture and distributed systems.
+- 🤝 Active contributor to the **Linux Foundation** and **Open Source** projects.
+- 🌐 Check out my **[Personal Website](https://your-website.com)** where I upload my projects and try to explain things... assuming I actually remember to update it. 😅
 
 ## 🛠️ Tech Stack
 
-Quite a bit of **Java**, **Python**, and **JS**... the rest I can easily adapt to! :)
+Fluent in **Java**, **Python**, and **JS**. My code works perfectly on my machine, so my next side project is figuring out how to ship my laptop to production. 🚀
 
 <br/>
 
@@ -24,6 +24,20 @@ Quite a bit of **Java**, **Python**, and **JS**... the rest I can easily adapt t
 | 🎮 **[Necropoint](https://github.com/alejandroGM0/project-top-down)** | Video game development featuring isometric navigation mechanics and real-time debug tools. | `Game Dev` |
 | 🎵 **[MusicSync / VibeMusic](https://github.com/alejandroGM0/groomusic)** | Platform for music synchronization and playback. | `Music`, `Streaming` |
 | 🚗 **[Charlacar](https://github.com/alejandroGM0/charlacar)** | Ride-sharing and travel management application clone/tool. | `Web`, `Full-Stack` |
+
+<br/>
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejandroGM0&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandroGM0&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroGM0&theme=radical" alt="GitHub Streak" />
+</div>
+
+<br/>
 
 ---
 <div align="center">
