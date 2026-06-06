@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 
-Fluent in **Java**, **Python**, and **JS**. I used to be pretty good at **C++** too, but I've successfully repressed all memories of manual memory management. My code works perfectly on my machine, so my next side project is figuring out how to ship my laptop to production. 🚀
+Fluent in **Java**, **Python**, and **JS**. I used to be pretty good at **C++** too, but I've successfully repressed all memories of manual memory management.
 
 <br/>
 
