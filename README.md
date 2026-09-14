@@ -6,7 +6,6 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Final-year Computer Engineering student**.
 - 🤝 Active contributor to the **Linux Foundation** and **Open Source** projects.
 - 🌐 Check out my **[Personal Website](https://alejandrogm.tech)** where I upload my projects and try to explain things... assuming I actually remember to update it. 😅
 
