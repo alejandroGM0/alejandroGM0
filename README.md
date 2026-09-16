@@ -1,7 +1,7 @@
 # Hi there! I'm Alejandro 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,19,41,25,28&height=250&section=header&text=Welcome%20to%20my%20profile&fontSize=70&fontAlign=50&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Open%20Source%20Contributor&descAlign=50&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,19,41,25,28&height=250&section=header&text=Welcome%20to%20my%20profile&fontSize=70&fontAlign=50&fontAlignY=35&desc=Open%20Source%20Contributor&descAlign=50&descAlignY=55" />
 </div>
 
 ## 👨‍💻 About Me
